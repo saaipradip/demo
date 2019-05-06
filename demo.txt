@@ -6,4 +6,8 @@ git commit -a -m
 
 git pust
 
+<<<<<<< HEAD
 git push origin --delete  branch name
+=======
+git fetch
+>>>>>>> 198973e2291755d9487d16ba8533df5365961d97

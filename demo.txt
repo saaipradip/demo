@@ -8,3 +8,4 @@ git pust
 
 git push origin --delete  branch name
 git fetch
+git fetch

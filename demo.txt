@@ -5,3 +5,5 @@ git commit
 git commit -a -m
 
 git pust
+
+git fetch
